@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega-backend",
+  "version": "1.0.0",
+  "description": "CLI de gestión de productos utilizando FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
